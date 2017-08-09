@@ -1,0 +1,22 @@
+[URI of the OWL(RDF/XML) output file]
+
+
+[Source ontology]
+NCBITaxon
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_487 #Neisseria meningitidis
+includeAllChildren
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/NCBITaxon_2 #Bacteria
+subClassOf
+http://purl.obolibrary.org/obo/NCBITaxon_131567 #cellular organisms
+
+[Source term retrieval setting]
+includeNoIntermediates
+
+[Source annotation URIs]
+includeAllAxioms
+
+[Source annotation URIs to be excluded]
