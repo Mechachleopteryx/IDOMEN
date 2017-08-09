@@ -14,6 +14,7 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl</Import>
     <Import>http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl</Import>
+    <Import>http://ontofox.hegroup.org/69stfwie.owl</Import>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/date"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-08T16:00:00</Literal>

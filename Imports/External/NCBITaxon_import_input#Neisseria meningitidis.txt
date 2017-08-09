@@ -14,7 +14,7 @@ subClassOf
 http://purl.obolibrary.org/obo/NCBITaxon_131567 #cellular organisms
 
 [Source term retrieval setting]
-includeNoIntermediates
+includeAllIntermediates
 
 [Source annotation URIs]
 includeAllAxioms
