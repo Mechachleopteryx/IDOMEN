@@ -6,12 +6,58 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/ontologies/2017/8/IDOMEN">
-    <Prefix name="" IRI="http://www.idomen.org/cedricbere/ontologies"/>
+    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2017/8/IDOMEN"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Import>http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl</Import>
+    <Import>http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl</Import>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/date"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-08T16:00:00</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Sadouanouan MALO</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">We propose IDOMEN an extension of Infectious Disease Ontology (IDO) for meningitis disease. Our ontology will used in extracting data and events from text messages published in social medias.</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Augustin ZONGO</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Moussa LO</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://protege.stanford.edu/plugins/owl/protege#defaultLanguage"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">en</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Gaoussou CAMARA</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">IDOMEN - A Mengitis Ontology</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Stanislas OUARO</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/format"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">OWL-DL</Literal>
+    </Annotation>
 </Ontology>
 
 
