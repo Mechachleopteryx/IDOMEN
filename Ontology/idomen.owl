@@ -59,6 +59,114 @@
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/format"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">OWL-DL</Literal>
     </Annotation>
+    <Declaration>
+        <Class IRI="#[value]_241b15d4_c269_48cf_ae88_8fff3445e464"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#[value]_b5031d01_c010_4225_86b8_0936db3ee923"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000091"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000450"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OBI_0100026"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000629"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_241b15d4_c269_48cf_ae88_8fff3445e464"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_482"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000091"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000576"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#[value]_b5031d01_c010_4225_86b8_0936db3ee923"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000436"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
+        <IRI>#[value]_06eacf91_371a_438c_bd32_d4ad925bf804</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[value]_06eacf91_371a_438c_bd32_d4ad925bf804</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">human</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
+        <IRI>#[value]_241b15d4_c269_48cf_ae88_8fff3445e464</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[value]_241b15d4_c269_48cf_ae88_8fff3445e464</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis symptom</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
+        <IRI>#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria Lactamica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
+        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningoccoccal meningitis</Literal>
+    </AnnotationAssertion>
 </Ontology>
 
 
