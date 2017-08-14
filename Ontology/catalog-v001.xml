@@ -5,6 +5,6 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/bfo.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/ido-merged.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1502409913295" name="http://www.semanticweb.org/ontologies/2017/8/IDOMEN" uri="idomen.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1502655203783" name="http://www.semanticweb.org/ontologies/2017/8/IDOMEN" uri="idomen.owl"/>
     </group>
 </catalog>
