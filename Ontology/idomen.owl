@@ -1,95 +1,153 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/ontologies/2017/8/IDOMEN"
+     xml:base="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/ontologies/2017/8/IDOMEN">
-    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2017/8/IDOMEN"/>
+     ontologyIRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1">
+    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Import>http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl</Import>
+    <Import>http://ontofox.hegroup.org/xe6pjy4h.owl</Import>
     <Import>http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl</Import>
-    <Import>http://ontofox.hegroup.org/69stfwie.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ogms.owl</Import>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/date"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-08T16:00:00</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Sadouanouan MALO</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">We propose IDOMEN an extension of Infectious Disease Ontology (IDO) for meningitis disease. Our ontology will used in extracting data and events from text messages published in social medias.</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Augustin ZONGO</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Moussa LO</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://protege.stanford.edu/plugins/owl/protege#defaultLanguage"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">en</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Gaoussou CAMARA</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">IDOMEN - A Mengitis Ontology</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Stanislas OUARO</Literal>
-    </Annotation>
-    <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/format"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">OWL-DL</Literal>
-    </Annotation>
     <Declaration>
-        <ObjectProperty IRI="#[value]_803723b8_22e3_4bd9_a507_4b647fe5ffbc"/>
+        <ObjectProperty IRI="#IDOMEN_0000023"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[value]_241b15d4_c269_48cf_ae88_8fff3445e464"/>
+        <ObjectProperty IRI="#IDOMEN_0000035"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033"/>
+        <ObjectProperty IRI="#IDOMEN_0000025"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+        <Class IRI="#IDOMEN_0000029"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <Class IRI="#IDOMEN_0000007"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[value]_493c853f_b38d_48a2_8de5_c2544d70b1e4"/>
+        <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#[value]_b5031d01_c010_4225_86b8_0936db3ee923"/>
+        <Class IRI="#IDOMEN_0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000000"/>
     </Declaration>
     <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000569"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000004"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_1224"/>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_2"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000596"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000010"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
-            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
+            <Class IRI="#IDOMEN_0000034"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
@@ -100,154 +158,470 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
-        <ObjectAllValuesFrom>
-            <ObjectProperty IRI="#[value]_803723b8_22e3_4bd9_a507_4b647fe5ffbc"/>
-            <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
-        </ObjectAllValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
-        <Class IRI="http://purl.obolibrary.org/obo/OBI_0100026"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000016"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
-            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000629"/>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000104"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_06eacf91_371a_438c_bd32_d4ad925bf804"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000104"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033"/>
-            <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002234"/>
+            <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000073"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_241b15d4_c269_48cf_ae88_8fff3445e464"/>
-        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+        <Class IRI="#IDOMEN_0000000"/>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_2759"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_493c853f_b38d_48a2_8de5_c2544d70b1e4"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000436"/>
+        <Class IRI="#IDOMEN_0000001"/>
+        <Class IRI="#IDOMEN_0000000"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_493c853f_b38d_48a2_8de5_c2544d70b1e4"/>
+        <Class IRI="#IDOMEN_0000001"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000051"/>
-            <ObjectUnionOf>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_135720"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_491"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_525171"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_648194"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_65699"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_859242"/>
-                <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_942513"/>
-            </ObjectUnionOf>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000091"/>
+            <Class IRI="#IDOMEN_0000006"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000650"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#IDOMEN_0000011"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000004"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000015"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000004"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000063"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000519"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000005"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000448"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000006"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000580"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000006"/>
+        <Class IRI="#IDOMEN_0000005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000007"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000545"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000007"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000010"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000008"/>
+        <Class IRI="#IDOMEN_0000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000009"/>
+        <Class IRI="#IDOMEN_0000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000010"/>
+        <Class IRI="http://purl.obolibrary.org/obo/TRANS_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000011"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000539"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000011"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000002"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000011"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000010"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000012"/>
+        <Class IRI="#IDOMEN_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000012"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000010"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000013"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000040"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000014"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000015"/>
+        <Class IRI="#IDOMEN_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000016"/>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_482"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
-            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5"/>
+        <Class IRI="#IDOMEN_0000016"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000091"/>
-            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000576"/>
+            <Class IRI="#IDOMEN_0000017"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_b5031d01_c010_4225_86b8_0936db3ee923"/>
+        <Class IRI="#IDOMEN_0000017"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000621"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000017"/>
+        <Class IRI="#IDOMEN_0000005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000018"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000061"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000018"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002234"/>
+            <Class IRI="#IDOMEN_0000022"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000019"/>
+        <Class IRI="#IDOMEN_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000019"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="#IDOMEN_0000020"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000020"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000023"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000021"/>
+        <Class IRI="#IDOMEN_0000019"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000021"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="#IDOMEN_0000018"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000022"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000022"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000022"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
+            <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000104"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000022"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#IDOMEN_0000023"/>
+            <Class IRI="#IDOMEN_0000021"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000024"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000024"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#IDOMEN_0000025"/>
+            <Class IRI="#IDOMEN_0000022"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000026"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000026"/>
+        <Class IRI="#IDOMEN_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000027"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000027"/>
+        <Class IRI="#IDOMEN_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000028"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000028"/>
+        <Class IRI="#IDOMEN_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000029"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000029"/>
+        <Class IRI="#IDOMEN_0000024"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000030"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000031"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000031"/>
+        <Class IRI="#IDOMEN_0000030"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000032"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000032"/>
+        <Class IRI="#IDOMEN_0000030"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000033"/>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000436"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#[value]_b5031d01_c010_4225_86b8_0936db3ee923"/>
+        <Class IRI="#IDOMEN_0000033"/>
         <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000051"/>
+            <ObjectProperty IRI="#IDOMEN_0000035"/>
             <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
         </ObjectSomeValuesFrom>
     </SubClassOf>
-    <InverseObjectProperties>
-        <ObjectProperty IRI="#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033"/>
-        <ObjectProperty IRI="#[value]_803723b8_22e3_4bd9_a507_4b647fe5ffbc"/>
-    </InverseObjectProperties>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000531"/>
-    </ObjectPropertyDomain>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000034"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
+    </SubClassOf>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
-        <IRI>#[value]_06eacf91_371a_438c_bd32_d4ad925bf804</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">human</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_06eacf91_371a_438c_bd32_d4ad925bf804</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">human</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000111"/>
-        <IRI>#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">host of</Literal>
+        <IRI>#IDOMEN_0000001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">human host less than 6 months old</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_1757c7f8_ade7_4f7d_a49c_1d9fdbd12033</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">host of</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
-        <IRI>#[value]_241b15d4_c269_48cf_ae88_8fff3445e464</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+        <IRI>#IDOMEN_0000002</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">colonization of the human nasopharynx</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_241b15d4_c269_48cf_ae88_8fff3445e464</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis symptom</Literal>
+        <IRI>#IDOMEN_0000003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy carrier of meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#IDOMEN_0000004</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_493c853f_b38d_48a2_8de5_c2544d70b1e4</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">African meningitis</Literal>
+        <IRI>#IDOMEN_0000004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">asymptomatic carriage</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_803723b8_22e3_4bd9_a507_4b647fe5ffbc</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">has host</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
-        <IRI>#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
+        <IRI>#IDOMEN_0000005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">immunity to neisseria meningitidis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_8eb25477_3be1_47b5_abd9_78df6cb584e5</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria Lactamica</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
-        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Cédric BERE</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Meningitis</Literal>
+        <IRI>#IDOMEN_0000006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">passive immunity to neisseria meningitidis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#[value]_b5031d01_c010_4225_86b8_0936db3ee923</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningoccoccal meningitis</Literal>
+        <IRI>#IDOMEN_0000007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis infectious agent reservoir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">droplets spread</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">nasopharyngeal secretions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000010</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis transmission process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000011</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">infectious agent carrier of meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000012</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy person</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000013</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">risk factors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000014</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">close contact with infected person</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000015</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy carrier of neisseria lactamica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000016</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria lactamica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000017</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">acquired immunity to neisseria meningitidis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000018</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis pathological bodily process</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000019</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000020</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">patient role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000021</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000022</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">manifestation of meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000023</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">is observed on</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000024</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis sign</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000025</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">recognized as</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000026</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">vomiting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://protege.stanford.edu/plugins/owl/protege#defaultLanguage"/>
+        <IRI>#IDOMEN_0000027</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral"></Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000027</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">burning of the fontanelle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000028</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">photophobia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000029</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">stiff neck</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000030</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis symptom</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000031</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">headaches</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000032</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">confusion</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000033</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningoccocal meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000034</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis pathogen role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000035</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">caused by</Literal>
     </AnnotationAssertion>
 </Ontology>
 
