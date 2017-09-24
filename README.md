@@ -1,5 +1,5 @@
 # IDOMEN
-Infectious Disease Ontolofy for MENingitis
+Infectious Disease Ontology for MENingitis
 
 Design : models
 Dictionary : dictionary of concepts/classes
