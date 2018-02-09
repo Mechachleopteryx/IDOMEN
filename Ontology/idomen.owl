@@ -27,10 +27,10 @@
         <ObjectProperty IRI="#IDOMEN_0000025"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000029"/>
+        <Class IRI="#IDOMEN_0000007"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000007"/>
+        <Class IRI="#IDOMEN_0000029"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000017"/>
@@ -43,6 +43,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000037"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000009"/>
@@ -81,13 +84,16 @@
         <Class IRI="#IDOMEN_0000028"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000038"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000016"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000026"/>
+        <Class IRI="#IDOMEN_0000004"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000004"/>
+        <Class IRI="#IDOMEN_0000026"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000008"/>
@@ -108,10 +114,13 @@
         <Class IRI="#IDOMEN_0000014"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="#IDOMEN_0000036"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000002"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000012"/>
@@ -433,6 +442,14 @@
         <Class IRI="#IDOMEN_0000034"/>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000037"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000090"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000038"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000090"/>
+    </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000000</IRI>
@@ -622,6 +639,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000035</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">caused by</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000036</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">temoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000037</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">antibiotic treatment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000038</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis treatment</Literal>
     </AnnotationAssertion>
 </Ontology>
 

@@ -1484,7 +1484,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="126.3328838547286" x="584.922750463586" y="912.556675826673"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.103515625" x="6.114684114864303" y="6.1486207590902495">[OGMS] treatment<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.103515625" x="6.114684114864303" y="6.148620759090363">[OGMS] treatment<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1624,7 +1624,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="194.33288385472866" x="-16.822679670388766" y="1074.6673131880566"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.12890625" x="5.101988802364303" y="6.148620759090363">suspected case of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.12890625" x="5.101988802364332" y="6.148620759090363">suspected case of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1644,7 +1644,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="194.33288385472866" x="-78.18428736702066" y="1194.8648220973205"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.423828125" x="8.954527864864303" y="6.148620759090363">probable case of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.423828125" x="8.954527864864332" y="6.148620759090363">probable case of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1664,7 +1664,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="194.33288385472866" x="-85.53037094217564" y="1291.6322769884036"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.345703125" x="4.993590364864303" y="6.148620759090363">confirmed case of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.345703125" x="4.993590364864332" y="6.148620759090363">confirmed case of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1724,7 +1724,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="194.33288385472866" x="209.22694499239986" y="986.8109639704484"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.203125" x="38.56487942736433" y="6.148620759090363">meningitis patient<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.203125" x="38.56487942736436" y="6.1486207590902495">meningitis patient<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1764,7 +1764,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="222.33288385472866" x="636.1612364662209" y="1407.9339449114777"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="208.193359375" x="7.069762239864332" y="6.148620759090363">Polymerase Chain Reaction (PCR)<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="208.193359375" x="7.069762239864303" y="6.148620759090363">Polymerase Chain Reaction (PCR)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1864,7 +1864,7 @@ bodily process
           <y:Geometry height="46.43005401818061" width="180.37178884145834" x="189.3255617062061" y="1278.842048317013"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.62890625" x="9.37144129572917" y="7.082214509090363">WHO standard treatment 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.62890625" x="9.371441295729198" y="7.082214509090363">WHO standard treatment 
 for meningitis patient<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -3047,7 +3047,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e79" source="n79" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3061,7 +3060,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e80" source="n81" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="10.940367040809633">
@@ -3075,7 +3073,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e81" source="n82" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="4.940367040809633">
@@ -3089,7 +3086,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e82" source="n80" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3103,7 +3099,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e83" source="n78" target="n76">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3114,7 +3109,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e84" source="n84" target="n83">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="46.0" sy="0.0" tx="-15.361607696631893" ty="0.0"/>
@@ -3125,7 +3119,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e85" source="n85" target="n84">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-7.346083575154978" ty="0.0"/>
@@ -3136,7 +3129,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e86" source="n83" target="n88">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="29.822679670388766" ty="7.4449955986301575">
@@ -3149,7 +3141,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e87" source="n78" target="n91">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="42.89382540825284" ty="0.0">
@@ -3162,7 +3153,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e88" source="n91" target="n76">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-67.6664419273643" sy="0.0" tx="1.3862481662456503" ty="-15.215027009090363">
@@ -3175,7 +3165,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e89" source="n88" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="5.0">
@@ -3192,7 +3181,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e90" source="n87" target="n77">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-4.663771903907104" ty="0.0"/>
@@ -3211,7 +3199,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e91" source="n87" target="n92">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-17.41157357517443" sy="0.0" tx="-41.347805104857116" ty="0.0"/>
@@ -3222,7 +3209,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e92" source="n87" target="n90">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3235,7 +3221,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e93" source="n87" target="n89">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3248,7 +3233,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e94" source="n96" target="n95">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3267,7 +3251,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e95" source="n88" target="n94">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3286,7 +3269,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e96" source="n94" target="n96">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="26.88193079282894" ty="0.0"/>
@@ -3305,7 +3287,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e97" source="n83" target="n97">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-61.36160769663189" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3324,7 +3305,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e98" source="n84" target="n97">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-83.98215456034367" sy="0.0" tx="-83.98215456034367" ty="0.0"/>
@@ -3343,7 +3323,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e99" source="n85" target="n97">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3365,7 +3344,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e100" source="n95" target="n86">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-83.94203155938143" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3384,7 +3362,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e101" source="n86" target="n98">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3405,7 +3382,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e102" source="n93" target="n77">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-47.255325362973394" ty="0.0"/>
@@ -3416,7 +3392,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e103" source="n99" target="n93">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="-5.522049258449442" tx="0.0" ty="0.0"/>
@@ -3427,7 +3402,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e104" source="n99" target="n77">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3442,7 +3416,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e105" source="n7" target="n9">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-13.633163271083731" ty="0.0"/>
@@ -3461,7 +3434,6 @@ spécification meningitis patient<y:LabelModel>
       </data>
     </edge>
     <edge id="e106" source="n100" target="n10">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="20.0" sy="0.0" tx="-23.045026061090198" ty="0.0"/>
