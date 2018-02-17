@@ -521,6 +521,21 @@
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy person</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#IDOMEN_0000013</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A risk factor is any attribute, characteristic  or exposure of an individual that increases the likelihood of developing a disease or injury. Some examples of the more important risk factors are underweight, unsafe sex, high blood pressure, tobacco and alcohol consumption, and unsafe water, sanitation and hygiene.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#IDOMEN_0000013</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Un facteur de risque est tout attribut, caractéristique ou exposition d’un sujet qui augmente la probabilité de développer une maladie ou de souffrir d’un traumatisme. Les facteurs de risque les plus importants sont par exemple, le déficit pondéral, les rapports sexuels non protégés, l’hypertension artérielle, la consommation de tabac ou d’alcool, l’eau non potable, l’insuffisance de l’hygiène ou de l’assainissement.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000119"/>
+        <IRI>#IDOMEN_0000013</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://www.who.int/topics/risk_factors/en/</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000013</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">risk factors</Literal>
