@@ -36,6 +36,9 @@
         <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000039"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000005"/>
     </Declaration>
     <Declaration>
@@ -52,6 +55,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000043"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000021"/>
@@ -108,7 +114,13 @@
         <Class IRI="#IDOMEN_0000020"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000042"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000040"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000014"/>
@@ -450,6 +462,34 @@
         <Class IRI="#IDOMEN_0000038"/>
         <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000090"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000038"/>
+        <Class IRI="#IDOMEN_0000037"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000039"/>
+        <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000040"/>
+        <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000042"/>
+        <Class IRI="#IDOMEN_0000037"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000042"/>
+        <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000043"/>
+        <Class IRI="#IDOMEN_0000037"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000043"/>
+        <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000000</IRI>
@@ -669,6 +709,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000038</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis treatment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000039</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">penicillin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000040</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ampicillin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000042</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ampicillin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000043</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ceftriaxone</Literal>
     </AnnotationAssertion>
 </Ontology>
 
