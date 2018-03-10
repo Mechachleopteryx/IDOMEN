@@ -24,28 +24,16 @@
         <ObjectProperty IRI="#IDOMEN_0000035"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#IDOMEN_0000025"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000007"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000029"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000039"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000005"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000027"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000015"/>
+        <Class IRI="#IDOMEN_0000049"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000037"/>
@@ -54,19 +42,13 @@
         <Class IRI="#IDOMEN_0000009"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000019"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000043"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000021"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000031"/>
+        <Class IRI="#IDOMEN_0000053"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#IDOMEN_0000041"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000013"/>
@@ -75,22 +57,13 @@
         <Class IRI="#IDOMEN_0000001"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000045"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000033"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000011"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000018"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000006"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000028"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000038"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000016"/>
@@ -99,13 +72,10 @@
         <Class IRI="#IDOMEN_0000004"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000026"/>
+        <Class IRI="#IDOMEN_0000048"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000008"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000010"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000032"/>
@@ -114,16 +84,10 @@
         <Class IRI="#IDOMEN_0000020"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000042"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000030"/>
+        <Class IRI="#IDOMEN_0000052"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000040"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000014"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000036"/>
@@ -132,19 +96,94 @@
         <Class IRI="#IDOMEN_0000024"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000044"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#IDOMEN_0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000014"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000002"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000012"/>
+        <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000034"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000022"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000000"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000569"/>
@@ -217,7 +256,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000004"/>
-        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <Class IRI="#IDOMEN_0000013"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000004"/>
@@ -475,6 +514,10 @@
         <Class IRI="#IDOMEN_0000038"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#IDOMEN_0000041"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#IDOMEN_0000042"/>
         <Class IRI="#IDOMEN_0000037"/>
     </SubClassOf>
@@ -489,6 +532,58 @@
     <SubClassOf>
         <Class IRI="#IDOMEN_0000043"/>
         <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000044"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000045"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000046"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000047"/>
+        <Class IRI="#IDOMEN_0000041"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000047"/>
+        <Class IRI="#IDOMEN_0000044"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000048"/>
+        <Class IRI="#IDOMEN_0000046"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000049"/>
+        <Class IRI="#IDOMEN_0000048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000050"/>
+        <Class IRI="#IDOMEN_0000048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000051"/>
+        <Class IRI="#IDOMEN_0000048"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000052"/>
+        <Class IRI="#IDOMEN_0000045"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000053"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000054"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000055"/>
+        <Class IRI="#IDOMEN_0000052"/>
     </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -563,12 +658,12 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>#IDOMEN_0000013</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A risk factor is any attribute, characteristic  or exposure of an individual that increases the likelihood of developing a disease or injury. Some examples of the more important risk factors are underweight, unsafe sex, high blood pressure, tobacco and alcohol consumption, and unsafe water, sanitation and hygiene.</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A risk factor is any attribute, characteristic  or exposure of an individual that increases the likelihood of developing a disease or injury. Some examples of the more important risk factors are underweight, unsafe sex, high blood pressure, tobacco and alcohol consumption, and unsafe water, sanitation and hygiene. [WHO]</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>#IDOMEN_0000013</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Un facteur de risque est tout attribut, caractéristique ou exposition d’un sujet qui augmente la probabilité de développer une maladie ou de souffrir d’un traumatisme. Les facteurs de risque les plus importants sont par exemple, le déficit pondéral, les rapports sexuels non protégés, l’hypertension artérielle, la consommation de tabac ou d’alcool, l’eau non potable, l’insuffisance de l’hygiène ou de l’assainissement.</Literal>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Un facteur de risque est tout attribut, caractéristique ou exposition d’un sujet qui augmente la probabilité de développer une maladie ou de souffrir d’un traumatisme. Les facteurs de risque les plus importants sont par exemple, le déficit pondéral, les rapports sexuels non protégés, l’hypertension artérielle, la consommation de tabac ou d’alcool, l’eau non potable, l’insuffisance de l’hygiène ou de l’assainissement. [OMS]</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000119"/>
@@ -722,6 +817,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000041</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">economics fators</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000042</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ampicillin</Literal>
     </AnnotationAssertion>
@@ -729,6 +829,66 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000043</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ceftriaxone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000044</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">social factors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000045</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">climatics factors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000046</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">environments factors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000047</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">schooling</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000048</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">massive population consolidation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000049</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">popular market</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000050</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pilgrimage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000051</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">refugees camp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000052</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">environmental and climatic parameters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000053</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">humidity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000054</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">wind speed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000055</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cold</Literal>
     </AnnotationAssertion>
 </Ontology>
 
