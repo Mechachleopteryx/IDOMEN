@@ -34,7 +34,7 @@
           <y:Geometry height="37.43766899341546" width="155.3328838547286" x="726.8563786643476" y="85.1990474301291"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="151.990234375" x="1.6713247398643034" y="9.6524282467077">[IDO] infectious disease<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="151.990234375" x="1.6713247398643034" y="9.652428246707728">[IDO] infectious disease<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -54,7 +54,7 @@
           <y:Geometry height="36.43005401818061" width="155.3328838547286" x="447.9131521302472" y="171.69934461713228"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.123046875" x="5.104918489864303" y="9.14862075909025">[OGMS] disease course<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.123046875" x="5.104918489864303" y="9.148620759090306">[OGMS] disease course<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -74,7 +74,7 @@
           <y:Geometry height="36.43005401818061" width="109.49932578209291" x="504.9131521302472" y="85.1990474301291"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.96484375" x="4.767241016046455" y="9.148620759090363">[OGMS] disease<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.96484375" x="4.767241016046455" y="9.148620759090306">[OGMS] disease<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -94,7 +94,7 @@
           <y:Geometry height="48.43005401818061" width="126.3328838547286" x="741.3563786643476" y="171.69934461713228"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.44921875" x="10.441832552364303" y="8.08221450909025">[IDO] infectious 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.44921875" x="10.441832552364303" y="8.082214509090306">[IDO] infectious 
 disease course<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -115,7 +115,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="109.49932578209291" x="499.9131521302472" y="-12.92620895704647"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.619140625" x="1.9400925785464551" y="9.148620759090363">[OGMS] disorder<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.619140625" x="1.9400925785464551" y="9.148620759090306">[OGMS] disorder<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -135,7 +135,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="179.05609924799256" x="887.6657677094572" y="396.2970842226533"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.9609375" x="-1.4524191260036332" y="15.148620759090363">[IDO] pathogenic disposition<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.9609375" x="-1.452419126003747" y="15.148620759090306">[IDO] pathogenic disposition<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -155,7 +155,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="184.3328838547286" x="994.6331632710835" y="85.70285491774655"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="170.9921875" x="6.670348177364303" y="9.148620759090363">Meningoccoccal meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="170.9921875" x="6.670348177364303" y="9.148620759090306">Meningoccoccal meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -175,7 +175,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="184.3328838547286" x="1003.2242883094482" y="-14.33106487655482"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.505859375" x="30.913512239864303" y="9.14862075909025">meninges infection<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.505859375" x="30.913512239864303" y="9.148620759090306">meninges infection<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -195,7 +195,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="192.3328838547286" x="1004.2663265421672" y="185.33953376777424"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="188.740234375" x="1.7963247398643034" y="15.148620759090363">[NBCI] Neisseiria meningitidis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="188.740234375" x="1.7963247398643034" y="15.148620759090306">[NBCI] Neisseiria meningitidis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -255,7 +255,7 @@ disease course<y:LabelModel>
           <y:Geometry height="37.437668993415514" width="85.05609924799256" x="1276.3694154093978" y="263.02408585846933"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.333984375" x="13.071344910525113" y="9.6524282467077">human<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.333984375" x="13.071344910525113" y="9.652428246707814">human<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -275,7 +275,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="76.05609924799256" x="1229.2302750906654" y="387.95577301712103"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.416015625" x="4.320041811496367" y="15.148620759090363">[IDO] host<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.416015625" x="4.320041811496367" y="15.148620759090306">[IDO] host<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -295,7 +295,7 @@ disease course<y:LabelModel>
           <y:Geometry height="30.430054018180613" width="192.3328838547286" x="1650.5326530843345" y="-14.33106487655482"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.1015625" x="6.615660677364303" y="6.1486207590902495">[NCBI] Organism, ..., bacteria<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.1015625" x="6.615660677364303" y="6.148620759090306">[NCBI] Organism, ..., bacteria<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -315,7 +315,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="192.3328838547286" x="2041.0659317406153" y="-11.61603786746457"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.50390625" x="9.914488802364303" y="15.148620759090363">[NCBI] Neisseiria Lactamica<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.50390625" x="9.914488802364303" y="15.148620759090306">[NCBI] Neisseiria Lactamica<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -335,7 +335,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="179.0560992479925" x="956.8694154093978" y="553.3581350710971"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.701171875" x="2.1774636864961394" y="9.148620759090363">[IDO] infectious disposition<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.701171875" x="2.1774636864961394" y="9.14862075909025">[IDO] infectious disposition<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -355,7 +355,7 @@ disease course<y:LabelModel>
           <y:Geometry height="24.238204698123695" width="106.3328838547286" x="513.954020922409" y="364.60036887974695"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.146484375" x="19.593199739864303" y="3.0526960990619045">high fever<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="67.146484375" x="19.593199739864303" y="3.0526960990618477">high fever<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -375,7 +375,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="95.49729241813725" x="614.4484555663848" y="647.5273539773046"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.34765625" x="16.57481808406874" y="9.148620759090363">stiff neck<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.34765625" x="16.574818084068625" y="9.14862075909025">stiff neck<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -395,7 +395,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="82.15936053240716" x="391.9131521302472" y="647.5273539773049"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.056640625" x="6.551359953703695" y="9.148620759090363">headaches<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.056640625" x="6.551359953703582" y="9.14862075909025">headaches<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -415,7 +415,7 @@ disease course<y:LabelModel>
           <y:Geometry height="25.0" width="95.49729241813725" x="636.6096684614647" y="364.21947122880886"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.884765625" x="18.30626339656851" y="3.43359375">vomiting<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.884765625" x="18.306263396568625" y="3.43359375">vomiting<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -435,7 +435,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="119.49932578209291" x="483.7467102028829" y="647.5273539773046"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.01953125" x="27.239897266046455" y="9.148620759090363">confusion<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.01953125" x="27.239897266046455" y="9.14862075909025">confusion<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -455,7 +455,7 @@ disease course<y:LabelModel>
           <y:Geometry height="24.238204698123695" width="109.49932578209291" x="391.9131521302472" y="364.60036887974695"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.8359375" x="13.831694141046455" y="3.0526960990619045">Photophobia<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.8359375" x="13.831694141046455" y="3.0526960990618477">Photophobia<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -475,7 +475,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="179.0560992479925" x="704.3583146705332" y="266.736612648486"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="158.939453125" x="10.05832306149614" y="9.14862075909025">Burning of the fontanelle<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="158.939453125" x="10.058323061496253" y="9.148620759090306">Burning of the fontanelle<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -563,7 +563,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="135.0560992479925" x="220.37765278313782" y="978.8727752305196"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.51953125" x="8.768283998996253" y="9.148620759090363">[OGMS] Treatment<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.51953125" x="8.768283998996253" y="9.14862075909025">[OGMS] Treatment<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -603,7 +603,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="106.33288385472866" x="1198.9534904839293" y="501.8414570445492"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.90625" x="4.713316927364303" y="15.148620759090363">[IDO] Host role<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.90625" x="4.713316927364303" y="15.14862075909025">[IDO] Host role<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -623,7 +623,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="204.05609924799256" x="1599.6246075429535" y="319.48992943779524"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.3515625" x="2.3522683739961394" y="9.148620759090363">[IDO] infectious agent host role<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.3515625" x="2.352268373996367" y="9.148620759090306">[IDO] infectious agent host role<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -643,7 +643,7 @@ disease course<y:LabelModel>
           <y:Geometry height="37.437668993415514" width="192.33288385472866" x="1430.7858204380336" y="212.80905884937908"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.890625" x="3.7211294273643034" y="9.652428246707814">[IDO] infectious agent carrier<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.890625" x="3.7211294273643034" y="9.652428246707757">[IDO] infectious agent carrier<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -663,7 +663,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="126.3328838547286" x="488.07959405761153" y="228.72700924892627"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.203125" x="4.564879427364303" y="9.148620759090363">meningitis patient<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.203125" x="4.564879427364303" y="9.148620759090306">meningitis patient<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -723,7 +723,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="135.3328838547286" x="128.15113645460087" y="236.14025079872454"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.236328125" x="23.048277864864303" y="9.14862075909025">[BFO] process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.236328125" x="23.048277864864303" y="9.148620759090306">[BFO] process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -743,7 +743,7 @@ disease course<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="155.3328838547286" x="118.15113645460087" y="314.4424548870626"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="143.8046875" x="5.764098177364303" y="9.148620759090363">[OGMS] bodily process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="143.8046875" x="5.764098177364303" y="9.148620759090306">[OGMS] bodily process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -763,7 +763,7 @@ disease course<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="144.75825382603136" x="118.15113645460087" y="392.7446589754005"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.521484375" x="5.618384725515625" y="8.082214509090363">[OGMS] pathological 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.521484375" x="5.618384725515682" y="8.082214509090306">[OGMS] pathological 
 bodily process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -784,7 +784,7 @@ bodily process<y:LabelModel>
           <y:Geometry height="36.43005401818061" width="126.3328838547286" x="1032.2242883094482" y="-106.92620895704647"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.708984375" x="15.811949739864303" y="9.148620759090363">[IDO] infection<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="94.708984375" x="15.811949739864303" y="9.148620759090306">[IDO] infection<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -804,7 +804,7 @@ bodily process<y:LabelModel>
           <y:Geometry height="48.43005401818061" width="163.89940745987877" x="108.5805596376772" y="491.0335387634469"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.75390625" x="5.072750604939415" y="8.082214509090363">meningitis pathological 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.75390625" x="5.072750604939387" y="8.08221450909025">meningitis pathological 
 bodily process
 <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -826,7 +826,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="106.33288385472855" x="483.3299311665651" y="428.8410771112375"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.140625" x="3.0961294273643034" y="9.148620759090363">meningitis sign<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="100.140625" x="3.0961294273643034" y="9.148620759090306">meningitis sign<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -846,7 +846,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="225.0560992479925" x="-22.792300319944502" y="650.5273539773049"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.017578125" x="4.019260561496253" y="6.148620759090363">[OGMS] manifestation of a disease<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.017578125" x="4.019260561496253" y="6.1486207590902495">[OGMS] manifestation of a disease<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -886,7 +886,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="263.324294443554" x="424.9543286989883" y="992.8143487327355"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="259.990234375" x="1.6670300342771043" y="9.148620759090363">WHO recommended meningitis treatment<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="259.990234375" x="1.6670300342769906" y="9.14862075909025">WHO recommended meningitis treatment<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -906,7 +906,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="167.3328838547286" x="316.4138263481543" y="808.9347935811821"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.279296875" x="1.0267934898643034" y="9.148620759090363">[OGMS] diagnosis process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.279296875" x="1.0267934898643034" y="9.14862075909025">[OGMS] diagnosis process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -926,7 +926,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="126.3328838547286" x="357.4138263481543" y="730.3893227037407"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.265625" x="6.533629427364303" y="9.148620759090363">[OGMS] diagnosis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="113.265625" x="6.533629427364303" y="9.14862075909025">[OGMS] diagnosis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -974,7 +974,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="155.3328838547286" x="296.9148811249694" y="896.9037844058508"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="144.16796875" x="5.58245755236419" y="6.148620759090363">[OGMS] clinical picture<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="144.16796875" x="5.582457552364303" y="6.1486207590902495">[OGMS] clinical picture<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -994,7 +994,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="85.05609924799256" x="382.79355458828013" y="298.17031486156645"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.5546875" x="4.750705873996367" y="9.148620759090363">patient role<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.5546875" x="4.750705873996253" y="9.148620759090306">patient role<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1014,7 +1014,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="185.33288385472855" x="-74.55502628674435" y="891.092586268872"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.607421875" x="0.8627309898643034" y="6.148620759090363">[OGMS] Physical examination<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.607421875" x="0.862730989864275" y="6.1486207590902495">[OGMS] Physical examination<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1034,7 +1034,7 @@ bodily process
           <y:Geometry height="33.68589693275567" width="187.8781868661311" x="1325.4810348532621" y="341.03578503568826"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.5546875" x="3.6617496830656364" y="7.776542216377948">healthy carrier of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.5546875" x="3.6617496830656364" y="7.776542216377834">healthy carrier of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1054,7 +1054,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="266.49729241813776" x="1607.0429914324209" y="456.51088020644704"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="250.1171875" x="8.190052459068738" y="6.148620759090363">colonization of the human nasopharynx<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="250.1171875" x="8.190052459068966" y="6.148620759090306">colonization of the human nasopharynx<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1074,7 +1074,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="204.05609924799256" x="1091.0185949386569" y="949.5278345111936"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="195.4375" x="4.618599247992734" y="8.297241518180726">maternal antibodies protection<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="195.4375" x="4.618599247992734" y="8.297241518180613">maternal antibodies protection<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1094,7 +1094,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="335.7227659146593" x="1048.1852616053234" y="833.6590516914317"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="296.51171875" x="19.605523582329624" y="6.148620759090363">[IDO] passive immunization to infectious agent<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="296.51171875" x="19.605523582329624" y="6.1486207590902495">[IDO] passive immunization to infectious agent<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1114,7 +1114,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="120.3328838547286" x="483.3299311665651" y="486.11991437342715"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.189453125" x="-5.428284635135697" y="9.148620759090363">meningitis symptom<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.189453125" x="-5.428284635135697" y="9.14862075909025">meningitis symptom<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1134,7 +1134,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="144.75825382603136" x="565.1874941584906" y="552.1842439357282"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.95703125" x="16.900611288015625" y="9.148620759090363">[OGMS] symptom<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.95703125" x="16.900611288015625" y="9.14862075909025">[OGMS] symptom<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1154,7 +1154,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="144.75825382603136" x="683.8480376582934" y="428.8410771112375"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.908203125" x="32.425025350515625" y="9.148620759090363">[OGMS] sign<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.908203125" x="32.425025350515625" y="9.148620759090306">[OGMS] sign<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1174,7 +1174,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="227.68461031671865" x="1183.7517190911087" y="618.3281873189677"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.5859375" x="2.049336408359295" y="9.148620759090363">human host less than 6 months old<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="223.5859375" x="2.049336408359295" y="9.14862075909025">human host less than 6 months old<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1194,7 +1194,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="214.03156770764605" x="1613.5517052245755" y="387.95577301712103"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="202.69140625" x="5.670080728822995" y="6.148620759090363">[IDO] colonization of the human<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="202.69140625" x="5.670080728822995" y="6.148620759090306">[IDO] colonization of the human<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1214,7 +1214,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="95.49729241813725" x="775.1481675659311" y="984.0972999591241"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.6875" x="23.90489620906874" y="9.148620759090363">nausea<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.6875" x="23.904896209068625" y="9.14862075909025">nausea<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1234,7 +1234,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="95.49729241813725" x="762.16847529132" y="867.3767363744192"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.099609375" x="20.19884152156851" y="9.148620759090363">lethargy<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.099609375" x="20.198841521568625" y="9.14862075909025">lethargy<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1254,7 +1254,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="68.63333108701045" x="887.6657677094572" y="925.7370181667717"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.958984375" x="2.3371733560052235" y="9.148620759090363"> petechial<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.958984375" x="2.3371733560052235" y="9.14862075909025"> petechial<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1274,7 +1274,7 @@ bodily process
           <y:Geometry height="36.43005401818061" width="106.3328838547286" x="688.2786231425423" y="925.7370181667717"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.994140625" x="9.169371614864303" y="9.148620759090363">purpuric rash<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.994140625" x="9.169371614864303" y="9.14862075909025">purpuric rash<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1294,7 +1294,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="243.03156770764627" x="1844.2493204269758" y="712.4203780558256"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="233.482421875" x="4.774572916322995" y="6.148620759090363">meningitis infectious agent reservoir<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="233.482421875" x="4.774572916323223" y="6.1486207590902495">meningitis infectious agent reservoir<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1314,7 +1314,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="287.33288385472866" x="1366.0822042817042" y="510.8414570445492"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="278.6875" x="4.322691927364531" y="6.148620759090363">[IDO] asymptomatic host of infectious agent<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="278.6875" x="4.322691927364303" y="6.1486207590902495">[IDO] asymptomatic host of infectious agent<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1334,7 +1334,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="149.56405882165228" x="1426.861455835738" y="584.0972999591239"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.005859375" x="2.2790997233259986" y="6.148620759090363">asymptomatic carriage<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.005859375" x="2.279099723326226" y="6.1486207590902495">asymptomatic carriage<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1354,7 +1354,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="126.33288385472866" x="1701.9164365722472" y="809.5240326695297"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="101.787109375" x="12.272887239864303" y="6.148620759090363">droplets spread<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="101.787109375" x="12.272887239864303" y="6.1486207590902495">droplets spread<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1374,7 +1374,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="222.42348987753354" x="2062.1275072931066" y="812.0175705091859"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="216.478515625" x="2.9724871262669694" y="6.148620759090363">close contact with infected person<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="216.478515625" x="2.9724871262669694" y="6.1486207590902495">close contact with infected person<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1394,7 +1394,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="187.8781868661311" x="1844.2493204269758" y="812.0175705091859"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="170.248046875" x="8.815069995565409" y="6.148620759090363">nasopharyngeal secretions<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="170.248046875" x="8.815069995565636" y="6.1486207590902495">nasopharyngeal secretions<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1448,7 +1448,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="149.56405882165228" x="1441.4363294078275" y="670.1511285555274"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.236328125" x="30.163865348326" y="6.148620759090363">[BFO] process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.236328125" x="30.163865348326226" y="6.1486207590902495">[BFO] process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1468,7 +1468,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="196.33288385472866" x="1769.2073999958302" y="572.5874024198077"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.291015625" x="-0.9790658851356966" y="6.148620759090363">[PTRANS] transmission process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.291015625" x="-0.9790658851356966" y="6.1486207590902495">[PTRANS] transmission process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1488,7 +1488,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="153.33288385472866" x="1606.4255146573905" y="640.6514480081042"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.5" x="1.9164419273643034" y="6.148620759090363">[IDO] incubation period<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.5" x="1.9164419273643034" y="6.1486207590902495">[IDO] incubation period<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1508,7 +1508,7 @@ bodily process
           <y:Geometry height="33.68589693275567" width="187.8781868661311" x="1735.2109180794791" y="-147.91707141017912"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.5546875" x="3.661749683065409" y="7.776542216377834">healthy carrier of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.5546875" x="3.6617496830656364" y="7.776542216377834">healthy carrier of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1548,7 +1548,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="86.33288385472866" x="2191.550317597616" y="731.5115560444655"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.875" x="7.457883854728607" y="8.297241518180726">risk factors<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.875" x="7.457883854728607" y="8.297241518180613">risk factors<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1588,7 +1588,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1384.0342871025896" y="1204.9099712239258"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.19140625" x="14.43234649899614" y="3.43359375">respiratory tract<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.19140625" x="14.432346498996367" y="3.43359375">respiratory tract<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1608,7 +1608,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1556.1895229500205" y="1172.7465745141253"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.52734375" x="13.76437774899614" y="3.43359375">outer membrane<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.52734375" x="13.764377748996367" y="3.43359375">outer membrane<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1628,7 +1628,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1556.1895229500205" y="1227.7465745141253"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.748046875" x="42.65402618649614" y="3.43359375">protein<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.748046875" x="42.65402618649637" y="3.43359375">protein<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1648,7 +1648,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1631.2499946448825" y="1070.3836930102675"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.861328125" x="48.09738556149614" y="3.43359375">por A<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.861328125" x="48.09738556149637" y="3.43359375">por A<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1668,7 +1668,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1690.2456221980128" y="1125.3836930102675"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.583984375" x="48.73605743649614" y="3.43359375">por B<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.583984375" x="48.73605743649637" y="3.43359375">por B<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1688,7 +1688,7 @@ bodily process
           <y:Geometry height="25.0" width="134.05609924799256" x="1568.3873759698204" y="1029.2087144186826"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="23.658203125" x="55.19894806149614" y="3.43359375">pili<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="23.658203125" x="55.19894806149637" y="3.43359375">pili<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1748,7 +1748,7 @@ bodily process
           <y:Geometry height="25.0" width="244.05609924799256" x="1288.9040253991443" y="1065.3966173309555"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="229.6796875" x="7.188205873996139" y="3.43359375">mechanisms promoting colonization<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="229.6796875" x="7.188205873996367" y="3.43359375">mechanisms promoting colonization<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1768,7 +1768,7 @@ bodily process
           <y:Geometry height="25.0" width="244.05609924799256" x="1288.9040253991443" y="1145.3966173309555"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.2734375" x="45.39133087399614" y="3.43359375">multifactorial processes<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.2734375" x="45.39133087399637" y="3.43359375">multifactorial processes<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1808,7 +1808,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="214.03156770764627" x="1801.2060349926178" y="633.0174564379882"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.265625" x="3.8829713538229953" y="6.148620759090363">meningitis transmission process<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.265625" x="3.8829713538232227" y="6.1486207590902495">meningitis transmission process<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1828,7 +1828,7 @@ bodily process
           <y:Geometry height="37.437668993415514" width="192.3328838547286" x="2125.5306790765744" y="103.90197582963765"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.173828125" x="19.579527864864303" y="9.6524282467077">neisseria lactamica host<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.173828125" x="19.579527864864303" y="9.652428246707757">neisseria lactamica host<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1862,7 +1862,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="311.7227659146593" x="1048.1852616053234" y="742.5475766189344"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="297.654296875" x="7.034234519829624" y="6.148620759090363">passive immunization to neisseria meningitidis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="297.654296875" x="7.034234519829624" y="6.1486207590902495">passive immunization to neisseria meningitidis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1927,7 +1927,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="185.33288385472855" x="152.11266247344702" y="584.0972999591239"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="175.744140625" x="4.794371614864303" y="6.148620759090363">manifestation of meningitis<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="175.744140625" x="4.794371614864275" y="6.1486207590902495">manifestation of meningitis<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1947,7 +1947,7 @@ bodily process
           <y:Geometry height="30.430054018180613" width="269.33288385472855" x="-12.74827100527773" y="928.7370181667717"/>
           <y:Fill color="#E9E9E9" color2="#FDFDFD" transparent="false"/>
           <y:BorderStyle color="#AEAEAE" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="267.2734375" x="1.0297231773643034" y="6.148620759090363">[OGMS] Clinical Manifestation of a Disease<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="267.2734375" x="1.029723177364275" y="6.1486207590902495">[OGMS] Clinical Manifestation of a Disease<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -2014,7 +2014,7 @@ bodily process
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.212890625" x="-51.98004150390625" y="-26.3176244099936">is_a<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.212890625" x="-51.98004150390625" y="-26.317624409993613">is_a<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -2077,7 +2077,7 @@ bodily process
           <y:Path sx="8.591125038364567" sy="8.106431419902435" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="130.46875" x="-86.6251220703125" y="-42.60180409749352">has_material_basis_in<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="130.46875" x="-86.6251220703125" y="-42.60180409749351">has_material_basis_in<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -2174,7 +2174,7 @@ bodily process
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.212890625" x="14.512554839486711" y="-29.834032633558238">is_a<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.212890625" x="14.512554839486711" y="-29.834032633558234">is_a<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -2700,7 +2700,7 @@ bodily process
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.626953125" x="-59.060475865848616" y="14.397914959222703">has_role<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.626953125" x="-59.24495462561424" y="14.397914959222703">has_role<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -2946,7 +2946,7 @@ bodily process
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24.009765625" x="-4.660810040157685" y="-84.202140945064">is a<y:LabelModel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24.009765625" x="-4.660810040157685" y="-84.81975569115775">is a<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -3367,7 +3367,6 @@ bodily process
       </data>
     </edge>
     <edge id="e84" source="n22" target="n33">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="41.1868388149789" sy="0.0" tx="-24.763218877619522" ty="14.973191137485458">
@@ -3389,7 +3388,6 @@ bodily process
       </data>
     </edge>
     <edge id="e85" source="n17" target="n33">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-24.763218877619522" ty="7.224630408650057">
@@ -3403,7 +3401,6 @@ bodily process
       </data>
     </edge>
     <edge id="e86" source="n20" target="n33">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-24.763218877619522" ty="-3.7753695913499428">
@@ -3417,7 +3414,6 @@ bodily process
       </data>
     </edge>
     <edge id="e87" source="n23" target="n33">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="7.215027009090306" tx="-24.763218877619522" ty="-1.7753695913499428">
@@ -3430,7 +3426,6 @@ bodily process
       </data>
     </edge>
     <edge id="e88" source="n41" target="n58">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3449,7 +3444,6 @@ bodily process
       </data>
     </edge>
     <edge id="e89" source="n56" target="n57">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -3465,6 +3459,19 @@ bodily process
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e90" source="n73" target="n75">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="10.372365148984045" tx="7.054849569459748" ty="0.0">
+            <y:Point x="1690.1468061542146" y="695.7385207136017"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>

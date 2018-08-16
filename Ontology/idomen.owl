@@ -18,6 +18,10 @@
     <Import>http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ogms.owl</Import>
     <Annotation>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/date"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-10T11:58:44</Literal>
+    </Annotation>
+    <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pr Moussa LO</Literal>
     </Annotation>
@@ -30,16 +34,20 @@
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pr Stanislas OUARO</Literal>
     </Annotation>
     <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">IDOMEN ontology is</Literal>
+    </Annotation>
+    <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">IDOMEN - Infectious Disease Ontology of MENingitis</Literal>
     </Annotation>
     <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/date"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">9:10:2016</Literal>
-    </Annotation>
-    <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dr Gaoussou CAMARA</Literal>
+    </Annotation>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">https://github.com/cedricbere/IDOMEN.git</Literal>
     </Annotation>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
@@ -97,6 +105,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000000"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000028"/>
@@ -621,6 +632,10 @@
         <Class IRI="#IDOMEN_0000055"/>
         <Class IRI="#IDOMEN_0000052"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000000"/>
+        <Class IRI="#IDOMEN_0000020"/>
+    </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000000</IRI>
@@ -925,6 +940,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000055</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cold</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000000</IRI>
+        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis patient role</Literal>
     </AnnotationAssertion>
 </Ontology>
 
