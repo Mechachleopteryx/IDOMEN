@@ -4979,7 +4979,6 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <obo:IAO_0000117>Chris Mungall</obo:IAO_0000117>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.ncbi.nlm.nih.gov/pubmed/19278549</obo:IAO_0000119>
         <obo:IAO_0000232>This relation groups a pair of inverse relations, parasite of and parasitized by</obo:IAO_0000232>
-        <obo:RO_0002561 rdf:resource="http://purl.obolibrary.org/obo/GO_0072519"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/ro/subsets#ro-eco"/>
         <rdfs:label>interacts with via parasite-host interaction</rdfs:label>
     </owl:ObjectProperty>
@@ -5002,7 +5001,6 @@ Each of these 3 primitives can be composed to yield a cross-product of different
         <obo:IAO_0000112>Pediculus humanus capitis parasite of human</obo:IAO_0000112>
         <obo:IAO_0000117>Chris Mungall</obo:IAO_0000117>
         <obo:IAO_0000118>parasitizes</obo:IAO_0000118>
-        <obo:RO_0002560 rdf:resource="http://purl.obolibrary.org/obo/GO_0072519"/>
         <oboInOwl:hasExactSynonym>direct parasite of</oboInOwl:hasExactSynonym>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/ro/subsets#ro-eco"/>
         <rdfs:label>parasite of</rdfs:label>
@@ -5396,8 +5394,6 @@ the a supports either the existence of b, or the truth value of b.</obo:IAO_0000
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0002476">
         <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0002258"/>
-        <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/GO_0005634"/>
-        <rdfs:range rdf:resource="http://purl.obolibrary.org/obo/GO_0005634"/>
         <obo:IAO_0000112>ABal nucleus child nucleus of ABa nucleus (in C elegans)</obo:IAO_0000112>
         <obo:IAO_0000115>c is a child nucleus of d if and only if c and d are both nuclei and parts of cells c&apos; and d&apos;, where c&apos; is derived from d&apos; by mitosis and the genetic material in c is a copy of the generic material in d</obo:IAO_0000115>
         <obo:IAO_0000117>Chris Mungall</obo:IAO_0000117>
@@ -7601,41 +7597,9 @@ Environmental exposures include those imposed by natural environments, experimen
     
 
 
-    <!-- http://purl.obolibrary.org/obo/GO_0004842 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0004842">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002482"/>
-                <owl:hasSelf rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:hasSelf>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GO_0005634 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0005634"/>
-    
-
-
     <!-- http://purl.obolibrary.org/obo/GO_0008150 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0008150"/>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GO_0016301 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0016301">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002481"/>
-                <owl:hasSelf rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:hasSelf>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
     
 
 
@@ -7645,19 +7609,6 @@ Environmental exposures include those imposed by natural environments, experimen
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002465"/>
-                <owl:hasSelf rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:hasSelf>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/GO_0072519 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0072519">
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002468"/>
                 <owl:hasSelf rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:hasSelf>
             </owl:Restriction>
         </rdfs:subClassOf>
