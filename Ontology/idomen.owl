@@ -54,12 +54,12 @@
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">W. R. Cédric BÉRÉ</Literal>
     </Annotation>
     <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dr Sadouanouan MALO</Literal>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">IDOMEN is an ontology of meningitis domain that will assist the extraction of data and events from text messages published in social media. In addition to this, the ontology will allow the integration of data, the domain knowledge sharing and efficient communication between actors within the epidemic surveillance system</Literal>
     </Annotation>
     <Annotation>
-        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">IDOMEN is an ontology of meningitis domain that will assist the extraction of data and events from text messages published in social media. In addition to this, the ontology will allow the integration of data, the domain knowledge sharing and efficient communication between actors within the epidemic surveillance system.</Literal>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/contributor"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dr Sadouanouan MALO</Literal>
     </Annotation>
     <Declaration>
         <ObjectProperty IRI="#IDOMEN_0000023"/>
@@ -74,10 +74,10 @@
         <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000049"/>
+        <Class IRI="#IDOMEN_0000005"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000005"/>
+        <Class IRI="#IDOMEN_0000049"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000037"/>
@@ -146,10 +146,10 @@
         <Class IRI="#IDOMEN_0000012"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000044"/>
+        <Class IRI="#IDOMEN_0000000"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000000"/>
+        <Class IRI="#IDOMEN_0000044"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000001"/>
@@ -185,10 +185,10 @@
         <Class IRI="#IDOMEN_0000051"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#IDOMEN_0000047"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000047"/>
+        <Class IRI="#IDOMEN_0000003"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000055"/>
@@ -212,10 +212,10 @@
         <Class IRI="#IDOMEN_0000026"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000010"/>
+        <Class IRI="#IDOMEN_0000054"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000054"/>
+        <Class IRI="#IDOMEN_0000010"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000042"/>
@@ -227,10 +227,10 @@
         <Class IRI="#IDOMEN_0000014"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000046"/>
+        <Class IRI="#IDOMEN_0000002"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000034"/>
