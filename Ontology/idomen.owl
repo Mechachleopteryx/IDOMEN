@@ -68,6 +68,12 @@
         <ObjectProperty IRI="#IDOMEN_0000035"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000007"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000029"/>
     </Declaration>
     <Declaration>
@@ -102,9 +108,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000001"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000033"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000000"/>
@@ -161,6 +164,9 @@
         <Class IRI="#IDOMEN_0000050"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000005"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000007"/>
     </Declaration>
     <Declaration>
@@ -200,6 +206,9 @@
         <Class IRI="#0000002"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000006"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000018"/>
     </Declaration>
     <Declaration>
@@ -233,9 +242,6 @@
         <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000034"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000022"/>
     </Declaration>
     <SubClassOf>
@@ -248,13 +254,6 @@
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_1224"/>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_2"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000053"/>
-            <Class IRI="#IDOMEN_0000034"/>
-        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
@@ -532,28 +531,6 @@
         <Class IRI="#IDOMEN_0000030"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#IDOMEN_0000033"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000436"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000033"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="#IDOMEN_0000035"/>
-            <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000034"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000034"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000052"/>
-            <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
-        </ObjectSomeValuesFrom>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#IDOMEN_0000037"/>
         <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000090"/>
     </SubClassOf>
@@ -658,8 +635,24 @@
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000414"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#0000003"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000405"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#0000004"/>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000414"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000005"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000452"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000006"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000007"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000436"/>
     </SubClassOf>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000118"/>
@@ -898,21 +891,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000033</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningoccocal meningitis</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
-        <IRI>#IDOMEN_0000034</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">a pathogen role of being a meningitis pathogen.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000034</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis pathogen role</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000035</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">caused by</Literal>
     </AnnotationAssertion>
@@ -1037,6 +1015,11 @@
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria meningitidis host role</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis pathogen role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
         <IRI>#0000004</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An infectious angent host role borne by an organism in virtue of the fact that its extended organism contains Neisseiria Lactamica.</Literal>
@@ -1045,6 +1028,31 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000004</IRI>
         <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria Lactamica host role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>#0000005</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis disposition that is the disposition to be transmitted from an infected, human host to a human host.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis disposition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria Lactamica commensal role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000118"/>
+        <IRI>#0000007</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningococcal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis</Literal>
     </AnnotationAssertion>
 </Ontology>
 
