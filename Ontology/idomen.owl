@@ -6,12 +6,12 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1">
-    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="idomen" IRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"/>
     <Import>http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl</Import>
     <Import>http://ontofox.hegroup.org/xe6pjy4h.owl</Import>
@@ -83,10 +83,10 @@
         <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000005"/>
+        <Class IRI="#IDOMEN_0000049"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000049"/>
+        <Class IRI="#IDOMEN_0000005"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000037"/>
@@ -155,10 +155,10 @@
         <Class IRI="#IDOMEN_0000012"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000000"/>
+        <Class IRI="#IDOMEN_0000044"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000044"/>
+        <Class IRI="#IDOMEN_0000000"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000001"/>
@@ -209,10 +209,10 @@
         <Class IRI="#IDOMEN_0000003"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000055"/>
+        <Class IRI="#IDOMEN_0000011"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000011"/>
+        <Class IRI="#IDOMEN_0000055"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000002"/>
@@ -222,6 +222,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000014"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000018"/>
@@ -236,10 +239,10 @@
         <Class IRI="#IDOMEN_0000026"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000010"/>
+        <Class IRI="#IDOMEN_0000054"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000054"/>
+        <Class IRI="#IDOMEN_0000010"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000042"/>
@@ -251,14 +254,18 @@
         <Class IRI="#IDOMEN_0000014"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000046"/>
+        <Class IRI="#IDOMEN_0000002"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000022"/>
     </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#0000012"/>
+    </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="#0000011"/>
         <ObjectSomeValuesFrom>
@@ -286,6 +293,13 @@
                 <Class IRI="#0000005"/>
             </ObjectSomeValuesFrom>
         </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_487"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000016"/>
@@ -378,6 +392,13 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#IDOMEN_0000011"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="#0000002"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#IDOMEN_0000012"/>
         <Class IRI="#IDOMEN_0000000"/>
     </SubClassOf>
@@ -403,6 +424,13 @@
     <SubClassOf>
         <Class IRI="#IDOMEN_0000016"/>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_482"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000016"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000087"/>
+            <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000016"/>
@@ -704,6 +732,22 @@
         <Class IRI="#0000013"/>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000014"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000573"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000014"/>
+        <Class IRI="#IDOMEN_0000011"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#0000014"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#IDOMEN_0000012"/>
+        <Class IRI="#0000014"/>
+    </DisjointClasses>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000118"/>
         <IRI>http://purl.obolibrary.org/obo/NCBITaxon_487</IRI>
@@ -727,7 +771,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000002</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">colonization of the human nasopharynx</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">colonization of the human nasopharynx</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1133,6 +1177,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000013</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria meningitidis commensal role</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000014</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">symptomatic host of neisseria meningitidis</Literal>
     </AnnotationAssertion>
 </Ontology>
 
