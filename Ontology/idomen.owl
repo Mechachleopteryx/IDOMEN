@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1">
+    <Prefix name="" IRI="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -62,6 +63,12 @@
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dr Sadouanouan MALO</Literal>
     </Annotation>
     <Declaration>
+        <Class IRI="#0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000035"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#IDOMEN_0000023"/>
     </Declaration>
     <Declaration>
@@ -71,10 +78,19 @@
         <Class IRI="#0000011"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000027"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#0000003"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000015"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000019"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000029"/>
@@ -104,6 +120,9 @@
         <Class IRI="#IDOMEN_0000041"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000031"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000013"/>
     </Declaration>
     <Declaration>
@@ -116,7 +135,22 @@
         <Class IRI="#0000012"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000032"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000036"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000004"/>
@@ -134,6 +168,9 @@
         <Class IRI="#IDOMEN_0000048"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000004"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000008"/>
     </Declaration>
     <Declaration>
@@ -147,6 +184,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000020"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000024"/>
@@ -167,6 +207,12 @@
         <Class IRI="#0000013"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000033"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#IDOMEN_0000025"/>
     </Declaration>
     <Declaration>
@@ -176,13 +222,22 @@
         <Class IRI="#0000005"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000037"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#0000009"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000007"/>
+        <Class IRI="#0000029"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000039"/>
+        <Class IRI="#IDOMEN_0000007"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000027"/>
@@ -192,9 +247,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000019"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000043"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000031"/>
@@ -209,10 +261,13 @@
         <Class IRI="#IDOMEN_0000003"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000055"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000011"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000055"/>
+        <Class IRI="#0000034"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000002"/>
@@ -221,10 +276,16 @@
         <Class IRI="#0000010"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#0000038"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#0000006"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#0000014"/>
+        <Class IRI="#0000026"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000018"/>
@@ -239,33 +300,26 @@
         <Class IRI="#IDOMEN_0000026"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000054"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000010"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000042"/>
+        <Class IRI="#IDOMEN_0000054"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000030"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000014"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="#0000030"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#IDOMEN_0000002"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#IDOMEN_0000022"/>
     </Declaration>
-    <EquivalentClasses>
-        <Class IRI="#IDOMEN_0000003"/>
-        <Class IRI="#0000012"/>
-    </EquivalentClasses>
     <EquivalentClasses>
         <Class IRI="#0000011"/>
         <ObjectSomeValuesFrom>
@@ -336,7 +390,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000003"/>
+        <Class IRI="#IDOMEN_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000003"/>
         <Class IRI="#IDOMEN_0000011"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000004"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000537"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000005"/>
@@ -379,6 +441,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000011"/>
+        <Class IRI="#IDOMEN_0000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000011"/>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0000056"/>
             <Class IRI="#IDOMEN_0000002"/>
@@ -400,7 +466,15 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000012"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000573"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000012"/>
         <Class IRI="#IDOMEN_0000000"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IDOMEN_0000012"/>
+        <Class IRI="#IDOMEN_0000011"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000012"/>
@@ -412,10 +486,6 @@
     <SubClassOf>
         <Class IRI="#IDOMEN_0000013"/>
         <Class IRI="http://purl.obolibrary.org/obo/BFO_0000040"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000014"/>
-        <Class IRI="#IDOMEN_0000013"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000015"/>
@@ -486,7 +556,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000022"/>
-        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000022"/>
+        <Class IRI="http://purl.obolibrary.org/obo/OGMS_0000025"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000022"/>
@@ -578,44 +648,28 @@
         <Class IRI="#IDOMEN_0000037"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#IDOMEN_0000039"/>
-        <Class IRI="#IDOMEN_0000038"/>
+        <Class IRI="#IDOMEN_0000040"/>
+        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000569"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000040"/>
-        <Class IRI="#IDOMEN_0000038"/>
+        <Class IRI="#IDOMEN_0000011"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000041"/>
-        <Class IRI="#IDOMEN_0000013"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000042"/>
-        <Class IRI="#IDOMEN_0000037"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000042"/>
-        <Class IRI="#IDOMEN_0000038"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000043"/>
-        <Class IRI="#IDOMEN_0000037"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#IDOMEN_0000043"/>
-        <Class IRI="#IDOMEN_0000038"/>
+        <Class IRI="#0000021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000044"/>
-        <Class IRI="#IDOMEN_0000013"/>
+        <Class IRI="#0000021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000045"/>
-        <Class IRI="#IDOMEN_0000013"/>
+        <Class IRI="#0000021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000046"/>
-        <Class IRI="#IDOMEN_0000013"/>
+        <Class IRI="#0000021"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000047"/>
@@ -627,7 +681,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000048"/>
-        <Class IRI="#IDOMEN_0000046"/>
+        <Class IRI="#0000022"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#IDOMEN_0000049"/>
@@ -694,7 +748,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#0000004"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000537"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000015"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#0000005"/>
@@ -726,27 +780,117 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#0000012"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000569"/>
+        <Class IRI="#0000004"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#0000013"/>
         <Class IRI="http://purl.obolibrary.org/obo/IDO_0000402"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#0000014"/>
-        <Class IRI="http://purl.obolibrary.org/obo/IDO_0000573"/>
+        <Class IRI="#0000015"/>
+        <Class IRI="#0000012"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#0000014"/>
-        <Class IRI="#IDOMEN_0000011"/>
+        <Class IRI="#0000016"/>
+        <Class IRI="#0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000017"/>
+        <Class IRI="#0000015"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000019"/>
+        <Class IRI="#0000017"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000020"/>
+        <Class IRI="#0000015"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000021"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000022"/>
+        <Class IRI="#IDOMEN_0000044"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000022"/>
+        <Class IRI="#IDOMEN_0000046"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000023"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000024"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000025"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000026"/>
+        <Class IRI="#IDOMEN_0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000027"/>
+        <Class IRI="#IDOMEN_0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000028"/>
+        <Class IRI="#0000027"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000029"/>
+        <Class IRI="http://purl.obolibrary.org/obo/BFO_0000040"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000030"/>
+        <Class IRI="#0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000031"/>
+        <Class IRI="#0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000032"/>
+        <Class IRI="#0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000033"/>
+        <Class IRI="#0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000034"/>
+        <Class IRI="#IDOMEN_0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000035"/>
+        <Class IRI="#0000034"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000036"/>
+        <Class IRI="#0000034"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000037"/>
+        <Class IRI="#0000034"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#0000038"/>
+        <Class IRI="#0000034"/>
     </SubClassOf>
     <DisjointClasses>
-        <Class IRI="#IDOMEN_0000003"/>
-        <Class IRI="#0000014"/>
+        <Class IRI="#0000015"/>
+        <Class IRI="#0000016"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#IDOMEN_0000012"/>
-        <Class IRI="#0000014"/>
+        <Class IRI="#0000035"/>
+        <Class IRI="#0000036"/>
+        <Class IRI="#0000037"/>
+        <Class IRI="#0000038"/>
     </DisjointClasses>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000118"/>
@@ -777,6 +921,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000003</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy carrier of meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#IDOMEN_0000004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria meningitidis host</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -816,7 +965,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000012</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">healthy person</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">symptomatic host of neisseria meningitidis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -837,11 +986,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000013</IRI>
         <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">risk factors</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000014</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">close contact with infected person</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -881,12 +1025,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000022</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">manifestation of meningitis</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">clinical manifestation of meningitis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000023</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">is observed on</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">is observed on</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -896,7 +1040,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000025</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">recognized as</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">recognized as</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -976,102 +1120,87 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000035</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">caused by</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">caused by</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000037</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">antibiotic treatment</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">antibiotic treatment</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000038</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis treatment</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000039</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">penicillin</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis treatment</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000040</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ampicillin</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">asymptomatic host of neisseria meningitidis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000041</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">economics fators</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000042</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Ampicillin</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#IDOMEN_0000043</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ceftriaxone</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">economics fators</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000044</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">social factors</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">social factors</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000045</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">climatics factors</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">climatics factors</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000046</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">environments factors</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">environments factors</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000047</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">schooling</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">schooling</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000048</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">massive population consolidation</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">massive population consolidation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000049</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">popular market</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">popular market</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000050</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pilgrimage</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">pilgrimage</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000051</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">refugees camp</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">refugees camp</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000052</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">environmental and climatic parameters</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">climatic parameters</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000053</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">humidity</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">humidity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000054</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">wind speed</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">wind speed</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#IDOMEN_0000055</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cold</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">cold</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1086,7 +1215,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000001</IRI>
-        <Literal xml:lang="fr" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis diagnostic process</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis diagnostic process</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000117"/>
@@ -1106,7 +1235,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000004</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Neisseria meningitidis host</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis planned process</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -1131,7 +1260,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000007</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Meningitis</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">meningitis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1171,7 +1300,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#0000012</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">asymptomatic host of neisseria meningitidis</Literal>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard recommendations for meningitis</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1180,8 +1309,118 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>#0000014</IRI>
-        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">symptomatic host of neisseria meningitidis</Literal>
+        <IRI>#0000015</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard specification for preventing and control meningitis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000016</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard specification for meningitis treatment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000017</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">vaccination</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000019</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">vaccination campaign</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000020</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Awareness specification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000021</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emergence factors of  meningitis epidemics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000022</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">socio-demographic factors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000023</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">rainfall</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000024</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">solar radiation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000025</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">atmospheric pressure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000026</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">temperature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000027</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">risky behavior</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000028</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">tobacco consumption</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000029</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">antibiotic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000030</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ampicillin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000031</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">penicillin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000032</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ceftriaxone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000033</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">chloramphenicol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000034</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard treatment for meningitis patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000035</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard ampicillin treatment for meningitis patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000036</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard penicillin treatment for meningitis patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000037</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard ceftriaxone treatment for meningitis patient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#0000038</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WHO standard chloramphenicol treatment for meningitis patient</Literal>
     </AnnotationAssertion>
 </Ontology>
 

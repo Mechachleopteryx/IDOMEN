@@ -8645,17 +8645,6 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
     <!-- http://purl.obolibrary.org/obo/IDO_0000539 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/IDO_0000539">
-        <owl:equivalentClass>
-            <owl:Class>
-                <owl:intersectionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
-                        <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/IDO_0000416"/>
-                    </owl:Restriction>
-                </owl:intersectionOf>
-            </owl:Class>
-        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
         <obo:IAO_0000115 xml:lang="en">An organism bearing the infectious agent carrier role.</obo:IAO_0000115>
         <obo:IAO_0000117>Albert Goldfain</obo:IAO_0000117>
