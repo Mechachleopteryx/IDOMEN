@@ -16,6 +16,7 @@
     <Import>http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl</Import>
     <Import>http://ontofox.hegroup.org/xe6pjy4h.owl</Import>
+    <Import>https://bioportal.bioontology.org/ontologies/SCTO/1.0</Import>
     <Import>http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl</Import>
     <Import>http://purl.obolibrary.org/obo/ogms.owl</Import>
     <Annotation>
@@ -99,10 +100,10 @@
         <Class IRI="#IDOMEN_0000017"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000049"/>
+        <Class IRI="#IDOMEN_0000005"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000005"/>
+        <Class IRI="#IDOMEN_0000049"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000037"/>
@@ -120,16 +121,16 @@
         <Class IRI="#IDOMEN_0000041"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#0000031"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#IDOMEN_0000013"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000045"/>
+        <Class IRI="#0000031"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IDOMEN_0000045"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000012"/>
@@ -165,10 +166,10 @@
         <Class IRI="#IDOMEN_0000016"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000048"/>
+        <Class IRI="#IDOMEN_0000004"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000004"/>
+        <Class IRI="#IDOMEN_0000048"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000008"/>
@@ -195,10 +196,10 @@
         <Class IRI="#IDOMEN_0000012"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000044"/>
+        <Class IRI="#IDOMEN_0000000"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000000"/>
+        <Class IRI="#IDOMEN_0000044"/>
     </Declaration>
     <Declaration>
         <Class IRI="#0000001"/>
@@ -312,10 +313,10 @@
         <Class IRI="#0000030"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000046"/>
+        <Class IRI="#IDOMEN_0000002"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#IDOMEN_0000002"/>
+        <Class IRI="#IDOMEN_0000046"/>
     </Declaration>
     <Declaration>
         <Class IRI="#IDOMEN_0000022"/>
