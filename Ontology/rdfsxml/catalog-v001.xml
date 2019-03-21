@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="https://bioportal.bioontology.org/ontologies/SCTO/1.0" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/SCTO.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/ro.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ogms.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/ogms.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/bfo.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/ido.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1553167534517" name="http://www.semanticweb.org/ced/ontologies/2019/2/idomening" uri="IDOMeningit.owl"/>
+    </group>
+</catalog>
