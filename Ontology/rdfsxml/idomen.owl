@@ -1,0 +1,1073 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"
+     xml:base="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"
+     xmlns:idomen="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1"
+     xmlns:metadata="http://data.bioontology.org/metadata/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:SCTO="https://bioportal.bioontology.org/ontologies/SCTO#"
+     xmlns:cito="http://purl.org/spar/cito/"
+     xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
+     xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:subsets="http://purl.obolibrary.org/obo/ro/subsets#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl"/>
+        <owl:imports rdf:resource="http://ontofox.hegroup.org/xe6pjy4h.owl"/>
+        <owl:imports rdf:resource="https://bioportal.bioontology.org/ontologies/SCTO/1.0"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ogms.owl"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-10T11:58:44</dc:date>
+        <dc:contributor>Pr Moussa LO</dc:contributor>
+        <dc:title xml:lang="fr">Ontologie de la Méningite</dc:title>
+        <dc:contributor>Pr Stanislas OUARO</dc:contributor>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDOMEN ontology is</rdfs:comment>
+        <dc:title xml:lang="en">IDOMEN - Infectious Disease Ontology of MENingitis</dc:title>
+        <dc:contributor>Dr Gaoussou CAMARA</dc:contributor>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/cedricbere/IDOMEN.git</rdfs:seeAlso>
+        <dc:creator>W. R. Cédric BÉRÉ</dc:creator>
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDOMEN is an ontology of meningitis domain that will assist the extraction of data and events from text messages published in social media. In addition to this, the ontology will allow the integration of data, the domain knowledge sharing and efficient communication between actors within the epidemic surveillance system</dc:description>
+        <dc:contributor>Dr Sadouanouan MALO</dc:contributor>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000023 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000023">
+        <rdfs:label xml:lang="en">is observed on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000025 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000025">
+        <rdfs:label xml:lang="en">recognized as</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000035 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000035">
+        <rdfs:label xml:lang="en">caused by</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1224 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1224">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_487 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_487">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2"/>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+                        <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000005"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/IDO_0000402"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000118>meningococcus</obo:IAO_0000118>
+        <rdfs:seeAlso>Gram-negative bacterium</rdfs:seeAlso>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGMS_0000016 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGMS_0000016">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000104"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGMS_0000104 -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGMS_0000104">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002234"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000073"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2759"/>
+        <rdfs:label xml:lang="en">human</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000001">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000006"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">human host less than 6 months old</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000650"/>
+        <rdfs:label xml:lang="en">colonization of the human nasopharynx</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000003">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000011"/>
+        <rdfs:label xml:lang="en">healthy carrier of meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000537"/>
+        <rdfs:label xml:lang="en">Neisseria meningitidis host</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000005">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000448"/>
+        <rdfs:label xml:lang="en">immunity to neisseria meningitidis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000580"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000005"/>
+        <rdfs:label xml:lang="en">passive immunity to neisseria meningitidis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000545"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000010"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">meningitis infectious agent reservoir</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000008">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000007"/>
+        <rdfs:label xml:lang="en">droplets spread</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000009">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000007"/>
+        <rdfs:label xml:lang="en">nasopharyngeal secretions</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000010 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000010">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/TRANS_0000000"/>
+        <rdfs:label xml:lang="en">meningitis transmission process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000011 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000011">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000539"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000004"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000002"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000010"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000002"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">infectious agent carrier of meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000012 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000012">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000573"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000011"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000010"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">symptomatic host of neisseria meningitidis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000013 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000013">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:IAO_0000115 xml:lang="en">A risk factor is any attribute, characteristic  or exposure of an individual that increases the likelihood of developing a disease or injury. Some examples of the more important risk factors are underweight, unsafe sex, high blood pressure, tobacco and alcohol consumption, and unsafe water, sanitation and hygiene. [WHO]</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="fr">Un facteur de risque est tout attribut, caractéristique ou exposition d’un sujet qui augmente la probabilité de développer une maladie ou de souffrir d’un traumatisme. Les facteurs de risque les plus importants sont par exemple, le déficit pondéral, les rapports sexuels non protégés, l’hypertension artérielle, la consommation de tabac ou d’alcool, l’eau non potable, l’insuffisance de l’hygiène ou de l’assainissement. [OMS]</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.who.int/topics/risk_factors/en/</obo:IAO_0000119>
+        <rdfs:label xml:lang="en">risk factors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000015 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000015">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
+        <rdfs:label xml:lang="en">healthy carrier of neisseria lactamica</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000016 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000016">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_482"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/IDO_0000402"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000091"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000017"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">Neisseria lactamica</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000017 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000017">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000621"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000005"/>
+        <rdfs:label xml:lang="en">acquired immunity to neisseria meningitidis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000018 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000018">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000061"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002234"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000022"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">meningitis pathological bodily process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000019 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000019">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000000"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000087"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000020 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000020">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <rdfs:label xml:lang="en">patient role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000021 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000021">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000019"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000018"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000022 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000022">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000025"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000056"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000104"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000023"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000021"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">clinical manifestation of meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000025"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000022"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="en">meningitis sign</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000026 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000026">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024"/>
+        <rdfs:label xml:lang="en">vomiting</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000027 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000027">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024"/>
+        <protege:defaultLanguage xml:lang="en"></protege:defaultLanguage>
+        <obo:IAO_0000111></obo:IAO_0000111>
+        <obo:IAO_0000112></obo:IAO_0000112>
+        <obo:IAO_0000115></obo:IAO_0000115>
+        <obo:IAO_0000116></obo:IAO_0000116>
+        <obo:IAO_0000118></obo:IAO_0000118>
+        <obo:IAO_0000119></obo:IAO_0000119>
+        <obo:IAO_0000232></obo:IAO_0000232>
+        <rdfs:label xml:lang="en">burning of the fontanelle</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000028 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000028">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024"/>
+        <rdfs:label xml:lang="en">photophobia</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000029 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000029">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000024"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000024"/>
+        <rdfs:label xml:lang="en">stiff neck</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000030 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000030">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+        <rdfs:label xml:lang="en">meningitis symptom</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000031 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000031">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000030"/>
+        <rdfs:label xml:lang="en">headaches</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000032 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000032">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000030"/>
+        <rdfs:label xml:lang="en">confusion</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000037 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000037">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000090"/>
+        <rdfs:label xml:lang="en">antibiotic treatment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000038 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000038">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000090"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000037"/>
+        <rdfs:label xml:lang="en">meningitis treatment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000040 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000040">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000569"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000011"/>
+        <rdfs:label xml:lang="en">asymptomatic host of neisseria meningitidis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000041 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000041">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021"/>
+        <rdfs:label xml:lang="en">economics fators</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000044 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000044">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021"/>
+        <rdfs:label xml:lang="en">social factors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000045 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000045">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021"/>
+        <rdfs:label xml:lang="en">climatics factors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000046 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000046">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021"/>
+        <rdfs:label xml:lang="en">environments factors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000047 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000047">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000041"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000044"/>
+        <rdfs:label xml:lang="en">schooling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000048 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000048">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000022"/>
+        <rdfs:label xml:lang="en">massive population consolidation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000049 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000049">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000048"/>
+        <rdfs:label xml:lang="en">popular market</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000050 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000050">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000048"/>
+        <rdfs:label xml:lang="en">pilgrimage</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000051 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000051">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000048"/>
+        <rdfs:label xml:lang="en">refugees camp</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000045"/>
+        <rdfs:label xml:lang="en">climatic parameters</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000053 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000053">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">humidity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000054 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000054">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">wind speed</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000055 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000055">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">cold</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000000">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000473"/>
+        <rdfs:label xml:lang="en">Neisseria meningitidis infection</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000001">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000104"/>
+        <obo:IAO_0000115>the diagnostic process of making diagnosis of meningitis</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">meningitis diagnostic process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000002 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000414"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000052"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0100026"/>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                                <owl:someValuesFrom>
+                                    <owl:Class>
+                                        <owl:intersectionOf rdf:parseType="Collection">
+                                            <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGMS_0000087"/>
+                                            <owl:Restriction>
+                                                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
+                                                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000000"/>
+                                            </owl:Restriction>
+                                        </owl:intersectionOf>
+                                    </owl:Class>
+                                </owl:someValuesFrom>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000117>An infectious angent host role borne by an organism in virtue of the fact that its extended organism contains Neisseiria meningitidis.</obo:IAO_0000117>
+        <rdfs:label xml:lang="en">Neisseria meningitidis host role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000003 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000405"/>
+        <rdfs:label xml:lang="en">meningitis pathogen role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000004 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <rdfs:label xml:lang="en">meningitis planned process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000005 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000005">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000452"/>
+        <obo:IAO_0000115>Meningitis disposition that is the disposition to be transmitted from an infected, human host to a human host.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Meningitis disposition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000006 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000402"/>
+        <rdfs:label xml:lang="en">Neisseria Lactamica commensal role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000007 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000436"/>
+        <oboInOwl:hasExactSynonym>Meningococcal</oboInOwl:hasExactSynonym>
+        <rdfs:label xml:lang="en">meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000008 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000008">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000020"/>
+        <rdfs:label xml:lang="en">Meningitis patient role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000009 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000009">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000466"/>
+        <obo:IAO_0000115>the virulence from the Neisseria meningitidis bacterium</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Neisseria meningitidis virulence</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000010 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000010">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000425"/>
+        <obo:IAO_0000115>A disposition borne by a biological macromolecule produced by Neisseria meningitidis. that is the disposition to improve survival of the pathogen in a host, improve transmission of the pathogen to a host, or cause pathological processes in a host.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Neisseria meningitidis virulence factor disposition</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000011 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000011">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0000053"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000010"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000547"/>
+        <obo:IAO_0000115>virulence factor that bears Neisseria meningitidis virulence factor dispositon</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">Neisseria meningitidis virulence factor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000012 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000012">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000004"/>
+        <rdfs:label xml:lang="en">WHO standard recommendations for meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000013 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000013">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/IDO_0000402"/>
+        <rdfs:label xml:lang="en">Neisseria meningitidis commensal role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000015 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000015">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000012"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000016"/>
+        <rdfs:label xml:lang="en">WHO standard specification for preventing and control meningitis</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000016 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000016">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000012"/>
+        <rdfs:label xml:lang="en">WHO standard specification for meningitis treatment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000017 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000017">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000015"/>
+        <rdfs:label xml:lang="en">vaccination</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000019 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000019">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000017"/>
+        <rdfs:label xml:lang="en">vaccination campaign</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000020 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000020">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000015"/>
+        <rdfs:label xml:lang="en">Awareness specification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000021">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000013"/>
+        <rdfs:label xml:lang="en">emergence factors of  meningitis epidemics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000022 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000022">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000044"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000046"/>
+        <rdfs:label xml:lang="en">socio-demographic factors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000023 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000023">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">rainfall</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000024 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000024">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">solar radiation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000025 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000025">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">atmospheric pressure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000026 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000026">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000052"/>
+        <rdfs:label xml:lang="en">temperature</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000027 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000027">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000013"/>
+        <rdfs:label xml:lang="en">risky behavior</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000028 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000028">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000027"/>
+        <rdfs:label xml:lang="en">tobacco consumption</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <rdfs:label xml:lang="en">antibiotic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000030 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000030">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029"/>
+        <rdfs:label xml:lang="en">ampicillin</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000031 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000031">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029"/>
+        <rdfs:label xml:lang="en">penicillin</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000032 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000032">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029"/>
+        <rdfs:label xml:lang="en">ceftriaxone</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000033 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000033">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000029"/>
+        <rdfs:label xml:lang="en">chloramphenicol</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#IDOMEN_0000038"/>
+        <rdfs:label xml:lang="en">WHO standard treatment for meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000035 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000035">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034"/>
+        <rdfs:label xml:lang="en">WHO standard ampicillin treatment for meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000036 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000036">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034"/>
+        <rdfs:label xml:lang="en">WHO standard penicillin treatment for meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000037 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000037">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034"/>
+        <rdfs:label xml:lang="en">WHO standard ceftriaxone treatment for meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000038 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000038">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000034"/>
+        <rdfs:label xml:lang="en">WHO standard chloramphenicol treatment for meningitis patient</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000035"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000036"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000037"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1#0000038"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

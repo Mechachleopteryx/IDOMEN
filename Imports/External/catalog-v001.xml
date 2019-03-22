@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1534427326977" name="http://ontofox.hegroup.org/exx9hrna.owl" uri="NCBITaxon_import_%23NeisseriaMeningitidis.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1534427326977" name="http://ontofox.hegroup.org/xe6pjy4h.owl" uri="NCBIT_import_NM.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1534427326977" name="http://purl.obolibrary.org/obo/ro/pato_import.owl" uri="Untitled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553180053704" name="http://ontofox.hegroup.org/exx9hrna.owl" uri="NCBITaxon_import_%23NeisseriaMeningitidis.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553180053704" name="http://ontofox.hegroup.org/xe6pjy4h.owl" uri="NCBIT_import_NM.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553180053704" name="http://purl.obolibrary.org/obo/ro/pato_import.owl" uri="Untitled.owl"/>
     </group>
 </catalog>

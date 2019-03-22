@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ido/2017-11-03/ido.owl" uri="http://purl.obolibrary.org/obo/ido.owl"/>
     <uri id="Imports Wizard Entry" name="https://bioportal.bioontology.org/ontologies/SCTO/1.0" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/SCTO.owl"/>
     <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/xe6pjy4h.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/External/NCBIT_import_NM.owl"/>
     <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/exx9hrna.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/External/NCBITaxon_import_%23NeisseriaMeningitidis.owl"/>
@@ -13,7 +14,10 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/bfo.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl" uri="file:/Users/Ced/Documents/DATA/DOCTORAT/DOCTORAT-2017/TRAVAUX/IDOMEN_REPOSITORY/IDOMEN/Imports/ro.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1553167239293" name="http://www.semanticweb.org/ced/ontologies/2019/2/idomening" uri="rdfsxml/IDOMeningit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1553167239293" name="http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1" uri="IDOMEN.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553233187917" name="http://purl.obolibrary.org/obo/ido.owl" uri="ido.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553233187917" name="http://www.semanticweb.org/ced/ontologies/2019/2/idomening" uri="rdfsxml/IDOMeningit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553233187917" name="duplicate:http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1" uri="testIdomen.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553233187917" name="duplicate:http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1" uri="IDOMEN.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1553233187917" name="shadowed:http://www.semanticweb.org/ontologies/2017/9/IDOMEN/2.1" uri="rdfsxml/idomen.owl"/>
     </group>
 </catalog>

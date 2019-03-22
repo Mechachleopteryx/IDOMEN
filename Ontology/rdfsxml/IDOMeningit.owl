@@ -16,13 +16,7 @@
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:subsets="http://purl.obolibrary.org/obo/ro/subsets#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/ced/ontologies/2019/2/idomening">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ido/2016-07-05/ido.owl"/>
-        <owl:imports rdf:resource="https://bioportal.bioontology.org/ontologies/SCTO/1.0"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/ogms.owl"/>
-    </owl:Ontology>
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ced/ontologies/2019/2/idomening"/>
     
 
 
@@ -34,6 +28,18 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGMS_0000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGMS_0000020"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OGMS_0000024 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGMS_0000024"/>
     
 
 
